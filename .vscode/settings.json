@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "/mnt/d/Users/mcmor/Dropbox/M/WSGitLocalNew/MavenRep/utiltimecounter.jar",
+            "/mnt/d/Users/mcmor/Dropbox/M/WSGitLocalNew/MavenRep/**/*.jar"
+        ],
+        "exclude": [
+            "/mnt/d/Users/mcmor/Dropbox/M/WSGitLocalNew/MavenRep/personalutil.jar"
+        ]
+    }
+}
